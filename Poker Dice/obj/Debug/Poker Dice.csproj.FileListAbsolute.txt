@@ -1,0 +1,10 @@
+C:\Users\Patrycja\Documents\PROJEKTY\pokerC#\Poker Dice\bin\Debug\Poker Dice.exe.config
+C:\Users\Patrycja\Documents\PROJEKTY\pokerC#\Poker Dice\bin\Debug\Poker Dice.exe
+C:\Users\Patrycja\Documents\PROJEKTY\pokerC#\Poker Dice\bin\Debug\Poker Dice.pdb
+C:\Users\Patrycja\Documents\PROJEKTY\pokerC#\Poker Dice\obj\Debug\Poker Dice.csprojAssemblyReference.cache
+C:\Users\Patrycja\Documents\PROJEKTY\pokerC#\Poker Dice\obj\Debug\Poker_Dice.Properties.Resources.resources
+C:\Users\Patrycja\Documents\PROJEKTY\pokerC#\Poker Dice\obj\Debug\Poker Dice.csproj.GenerateResource.cache
+C:\Users\Patrycja\Documents\PROJEKTY\pokerC#\Poker Dice\obj\Debug\Poker Dice.exe
+C:\Users\Patrycja\Documents\PROJEKTY\pokerC#\Poker Dice\obj\Debug\Poker Dice.pdb
+C:\Users\Patrycja\Documents\PROJEKTY\pokerC#\Poker Dice\obj\Debug\Poker_Dice.Menu.resources
+C:\Users\Patrycja\Documents\PROJEKTY\pokerC#\Poker Dice\obj\Debug\Poker_Dice.Game.resources
